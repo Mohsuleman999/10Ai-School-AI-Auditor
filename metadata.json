@@ -1,0 +1,6 @@
+{
+  "name": "LedgerLens — AI Reporting Assistant",
+  "description": "Enterprise BI and multi-domain financial, inventory, and payroll data reconciliation platform powered by 10AI School by 10Alytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
